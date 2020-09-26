@@ -1,0 +1,22 @@
+name: project_mlhc_2_task1
+channels:
+  - defaults
+  - conda-forge
+dependencies:
+  - numpy
+  - pandas
+  - keras
+  - jupyter
+  - matplotlib
+  - python==3.7.4
+  - tensorflow
+  - scikit-learn
+  - scipy
+  - imbalanced-learn
+  - nltk
+  - bokeh
+  - lightgbm  
+  - xgboost
+  #- adaboost
+prefix: /usr/local/anaconda3/envs/project_ml4h
+
